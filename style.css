@@ -1,0 +1,18 @@
+
+	/* Navigation bar styles */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+  }
+  
+
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-position: center center;
+    margin-top: 700px; /* adjust this value to match the height of your navigation bar */
+
+  }
